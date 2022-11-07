@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ay0nn
+- 👀 I’m interested in data science and Software Quality Assurance...
+- 🌱 I’m currently studying at Åbo Akademi University...
+- 📫 How to reach me: tzayon1@gmail.com  md.ayon@abo.fi...
+
+<!---
+ay0nn/ay0nn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
